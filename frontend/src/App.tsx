@@ -100,7 +100,7 @@ function Hero() {
       </div>
       <div className="hero-service-strip">
         <div className="container service-strip-inner">
-          <span>Uma plataforma para</span>
+          <span>Uma plataforma para:</span>
           <strong><Icon name="home" size={20} /> Mudanças residenciais</strong>
           <strong><Icon name="building" size={20} /> Entregas comerciais</strong>
           <strong><Icon name="package" size={20} /> Itens volumosos</strong>
